@@ -8,7 +8,8 @@ sources:
         columns:
           - name: date_date
           - name: orders_id
-          - name: pdt_id
+          - name: products_id
+            identifier: pdt_id
           - name: revenue
           - name: quantity
       - name: product
